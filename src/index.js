@@ -1,4 +1,4 @@
-import style from "./app.css";
+import style from "./index.css";
 
 console.log("TEST");
 
